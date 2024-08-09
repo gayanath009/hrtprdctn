@@ -1,9 +1,0 @@
-flask
-gunicorn
-numpy
-scipy
-pandas
-tensorflow
-scikit-learn
-xgboost
-pickle
