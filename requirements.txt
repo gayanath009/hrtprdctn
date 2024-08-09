@@ -6,4 +6,3 @@ pandas
 tensorflow
 scikit-learn
 xgboost
-pickle
